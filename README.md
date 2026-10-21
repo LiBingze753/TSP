@@ -1,5 +1,8 @@
 # 交付包说明（README）
 
+> 代码与数据仓库：<https://github.com/LiBingze753/TSP>
+
+
 **论文题目**：遗传算法求解 TSP 及其 2-opt 局部搜索改进——基于 TSPLIB 小规模实例的复现实验
 **参数版本**：params_v1　｜　**数据生成日期**：2026-10-20
 
