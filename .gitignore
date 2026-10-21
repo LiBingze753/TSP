@@ -15,3 +15,14 @@ repro/*.log
 
 # 第三方原文 PDF 不入库（版权原因），题录见 refs/references_check.csv
 refs/*.pdf
+
+# 渲染预览目录与临时导出
+q[0-9]*/
+p[0-9]*/
+k[0-9]*/
+v[0-9]*/
+m[0-9]*/
+n[0-9]*/
+sheets/
+paper_text.txt
+tpl_render/
