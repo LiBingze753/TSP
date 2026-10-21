@@ -1,0 +1,17 @@
+# 编译产物
+out/classes/
+*.class
+
+# 临时文件
+tpl.docx
+tpl.pdf
+paper_preview.pdf
+preview*/
+__pycache__/
+*.pyc
+
+# 复跑日志（数据本身保留）
+repro/*.log
+
+# 第三方原文 PDF 不入库（版权原因），题录见 refs/references_check.csv
+refs/*.pdf

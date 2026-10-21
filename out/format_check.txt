@@ -1,0 +1,41 @@
+== 页面 ==
+第0节 A4=True 边距(上/下/左/右)=3.00/3.00/3.00/3.00 cm 页眉1.50 页脚1.75
+第1节 A4=True 边距(上/下/左/右)=3.00/3.00/3.00/3.00 cm 页眉1.50 页脚1.75
+第2节 A4=True 边距(上/下/左/右)=3.00/3.00/3.00/3.00 cm 页眉1.50 页脚1.75
+第3节 A4=True 边距(上/下/左/右)=3.00/3.00/3.00/3.00 cm 页眉1.50 页脚1.75
+第4节 A4=True 边距(上/下/左/右)=3.00/3.00/3.00/3.00 cm 页眉1.50 页脚1.75
+第5节 A4=True 边距(上/下/左/右)=3.00/3.00/3.00/3.00 cm 页眉1.50 页脚1.75
+
+== 样式 ==
+Normal     Times New Roman 宋体 12.0pt bold=False
+Heading 1  Times New Roman 华文中宋 22.0pt bold=True
+Heading 2  Times New Roman 黑体 15.0pt bold=False
+Heading 3  Times New Roman 黑体 12.0pt bold=False
+
+== 正文段落抽样 ==
+首行缩进=24pt 行距=1.5 字号=12.0 字体=Times New Roman/宋体 对齐=JUSTIFY (3)
+首行缩进=24pt 行距=1.5 字号=12.0 字体=Times New Roman/宋体 对齐=JUSTIFY (3)
+首行缩进=24pt 行距=1.5 字号=12.0 字体=Times New Roman/宋体 对齐=JUSTIFY (3)
+
+== 标题抽样 ==
+Heading 1 摘　要                            字号=22.0 字体=Times New Roman/华文中宋 bold=True 对齐=CENTER (1)
+Heading 1 Abstract                       字号=22.0 字体=Times New Roman/华文中宋 bold=True 对齐=CENTER (1)
+Heading 1 目　录                            字号=22.0 字体=Times New Roman/华文中宋 bold=True 对齐=CENTER (1)
+Heading 1 1．绪论                           字号=22.0 字体=Times New Roman/华文中宋 bold=True 对齐=None
+Heading 2 1.1 研究背景                       字号=15.0 字体=Times New Roman/黑体 bold=False 对齐=None
+
+== 表格内文字 ==
+3列 表内字号=0.0 行距=1.0
+8列 表内字号=0.0 行距=1.0
+8列 表内字号=0.0 行距=1.0
+
+== 页码 ==
+第0节 pgNumType=无 页脚含PAGE域=False
+第1节 pgNumType=无 页脚含PAGE域=False
+第2节 pgNumType=1 页脚含PAGE域=True
+第3节 pgNumType=1 页脚含PAGE域=True
+第4节 pgNumType=1 页脚含PAGE域=False
+第5节 pgNumType=1 页脚含PAGE域=True
+
+== 图片 ==
+图片数=6
